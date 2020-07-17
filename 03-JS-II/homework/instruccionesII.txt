@@ -1,0 +1,13 @@
+*Ciclo For: lo ocupamos en el cual conocemos su inicio y final.
+ejempl: supongamos que tenemos 3 gatos cada gato quiere un pescado por obvia razones empezaras dandole pescado al primer gato y terminaras cuando llegues al tercer gato.
+for( var i=0; i<=3; i ++)
+
+* &&: Esto se lee como Y o en su perspectiva como AND que es una operacion de comparacion que compara si la condicion dada por el usuario es una y dos.
+ejemplo: tenemos un auto y nuestras condiciones es que sea rojo y que se una camioneta. entonces 
+if(auto=== rojo && auto=== camioneta)
+
+* ||: Esto se lee como O o en su perspectiva como OR que es una operacion de comparacion que compara si la condicion dada por el usuario es una o dos.
+ejemplo: tenemos un auto y nuestras condiciones es que sea rojo o verde. entonces 
+if(auto=== rojo || auto=== verde)
+
+*'!' signo de exclamacion.

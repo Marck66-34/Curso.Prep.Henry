@@ -1,0 +1,25 @@
+*Variable = es un espacio almacenado que le asignamos a un caracter o numero
+por ejemplo la variable de 3 seria numero 
+ejemplo: numero = 3
+
+*String = Es una cadena de caracteres propiamente formadas por letras o numeros(es decir el numero escrito) que van enserrados entre comilla doble o simples
+ ejemplo: string ="hola" string = '3'
+
+ *Funciones: El argumento de la funcion es el nombre por el cual vamos a inbocar a esa funcion mas adelante.
+ El return es lo que queremos que devuelva de esa funcion.
+ ejemplo: function mayor(numero)
+ if(num > 10){
+ return true;
+ }
+
+ * Declaracion if o bien llamada si: Se trata de comparar una condicion si se cumple tal condicion pasa esto de lo contrario pasa lo otro.
+ var edad = 12;
+ejemplo: if(edad >=18){
+	console.log("es mayor de edad")
+}else{
+	console.log("no es mayor de edad")
+}
+aqui tenemos como variable edad que le asignamos el valor de 12 y le preguntamos si edad es mayor o igual a 18 seria mayor de edad si no de caso contrario no lo es.
+
+* Valores booleanos: Es donde la condicion da como resultado un true o false
+tomemos el ejemplo anterior si edad es mayor o igual a 18 me daria un true de caso contrario false.
