@@ -5,7 +5,7 @@ ejemplo: numero = 3
 *String = Es una cadena de caracteres propiamente formadas por letras o numeros(es decir el numero escrito) que van enserrados entre comilla doble o simples
  ejemplo: string ="hola" string = '3'
 
- *Funciones: El argumento de la funcion es el nombre por el cual vamos a inbocar a esa funcion mas adelante.
+ *Funciones: El argumento de la funcion son los valores que le damos al nombre de la funcion
  El return es lo que queremos que devuelva de esa funcion.
  ejemplo: function mayor(numero)
  if(num > 10){
