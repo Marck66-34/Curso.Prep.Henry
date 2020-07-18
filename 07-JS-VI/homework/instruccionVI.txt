@@ -1,0 +1,2 @@
+Funciones Callback
+es una funcion que se la pasamos por el parametro a otra funcion y que en algun momento de esa funcion esa callback se invoca. 
