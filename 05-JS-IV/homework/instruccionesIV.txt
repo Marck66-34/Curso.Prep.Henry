@@ -1,0 +1,14 @@
+* Objetos: Los objeto es cualquier elemento que se descrive por su valores y propiedades.
+ejemplo: var auto{
+	color: gris,
+	año: 2010,
+}
+* Propiedades: Son las caracteristicas del objeto ej: color propiedad rojo
+
+* Métodos: Son las modificaciones que instruimos como usuario como borrar agregar, etc
+
+* Bucle `for…in`: itera (realizar varias veces esa acción) sobre todos los elementos de un objeto, en un orden arbitrario. Para cada uno de los elementos, se ejecuta la sentencia especificada.
+
+Sintaxis
+
+* Notación de puntos vs notación de corchetes : los puntos se usa para llamar al objeto que esta en la funcion, y los [] corchetes se usa para llamar a los string ""

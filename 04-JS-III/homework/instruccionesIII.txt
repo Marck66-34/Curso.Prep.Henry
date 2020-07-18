@@ -1,1 +1,1 @@
-* Array: Es un tipo de dato que te permite almacenar un conjunto de datos todos del mismo tipo y relacionado. Dentro de una lista [1,2,3]
+* Array: Es un tipo de dato que te permite almacenar un conjunto de datos todos del mismo tipo y relacionado. Dentro de una lista que puede ser del tipo simple como caracteres, entero real o compuestos.[1,2,3]
