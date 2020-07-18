@@ -1,0 +1,8 @@
+
+* `prototype`: Almacena nuestra función con la propiedad “prototype” este queda almacenado como un metodo dentro de el proto de nuestro objeto. Todas los objetos en JS obtienen sus propiedades y métodos de proto y gracias a “prototype” logramos modificar el prototype de nuestros objetos.
+
+* _Constructors_ (de Clases): Un constructor es un método especial de una clase que se llama automáticamente siempre que se declara un objeto de esa clase.
+Su función es inicializar el objeto y sirve para asegurarnos que los objetos siempre contengan valores válidos.
+El constructor de una clase tiene las siguientes características:
+
+Tiene el mismo nombre que la clase a la que pertenece.
