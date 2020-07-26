@@ -1,0 +1,42 @@
+html * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url('../img/restaurant.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+   width: 100%;
+}
+header h1{
+color: green;
+text-align: center;
+}
+header a {
+  text-decoration: none;
+  color: #fff;
+}
+header nav ul li{
+  list-style: none;
+
+}
+header img{
+  width: 400px;
+}
+#thirdDiv{
+  height: 600px;
+  width: 500px;
+  background-color: #85C1E9;
+  padding: 50px;
+  border: 1px #000 solid;
+}
+header span#spanId{
+  font-size: 18px;
+  margin : 50px;
+  color: #fff;
+}
+.divClass{
+  color: #fff;
+}
